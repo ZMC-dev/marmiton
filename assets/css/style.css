@@ -1,0 +1,104 @@
+body {
+  font-family: 'Roboto', sans-serif; 
+  background: #efefef;
+  
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+  box-sizing: border-box;
+}
+
+section {
+background-color: white;
+padding: 60px 30px 60px 30px;
+border-radius: 20px;
+margin-top: 80px;
+
+}
+
+header {
+  background-color:white;
+  border: 1px solid #f3735f;
+  width: 100%;
+  }
+  
+header img {
+  width: 164px;
+  margin-bottom: 30px;
+  margin-top: 12px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+#recipe-info {
+  text-align: center;
+  color: #6C6C6C;
+}
+
+
+h1{
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  color: #393c6c;
+}
+
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px ;
+  font-weight: bold;
+  color: #393c6c;
+  line-height: 22px;
+}
+
+
+#pictures img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.picture {
+  margin-right: 28px;
+} 
+
+li {
+  color: #6C6C6C;
+}
+
+
+.insert-card {
+  background-color: #8A98B1;
+  color: white;
+  font-size: 20px;
+  width: 360px;
+  height: 40px;
+  margin: auto;
+  text-align: center;
+  padding-top: 15px;
+  border-radius: 10px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+footer p {
+  text-align: center;
+  margin: 100px;
+  color: #6C6C6C;
+}
+
+
